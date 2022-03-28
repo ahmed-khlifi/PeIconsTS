@@ -5,9 +5,9 @@ export default function EnglishInactive(props) {
   return (
     <Svg
       xmlns="http://www.w3.org/2000/svg"
-      width={61}
-      height={61}
-      viewBox="0 0 61 61"
+      width={60}
+      height={60}
+      viewBox="0 0 60 60"
       {...props}
     >
       <G data-name="Group 5412">
