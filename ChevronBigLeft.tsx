@@ -2,7 +2,7 @@ import * as React from "react"
 import Svg, { G, Circle, Path } from "react-native-svg"
 
 const ChevronBigLeft = (props) => (
-  <Svg xmlns="http://www.w3.org/2000/svg" width={61} height={61} {...props}>
+  <Svg xmlns="http://www.w3.org/2000/svg" width={60} height={60} {...props}>
     <G data-name="Group 6455">
       <G data-name="Group 5469" transform="translate(.5 .5)">
         <Circle
